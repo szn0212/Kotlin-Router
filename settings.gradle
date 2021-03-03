@@ -1,0 +1,5 @@
+include ':router-compiler'
+include ':router-annotation'
+include ':module_router'
+include ':app'
+rootProject.name = "TestRouter"
